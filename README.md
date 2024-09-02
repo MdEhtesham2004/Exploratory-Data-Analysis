@@ -1,5 +1,5 @@
 
-# Exploratory Data Analysis (EDA) on Multiple Datasets
+# Insightful EDA and Predictive Analytics on Multiple Datasets
 
 This repository contains Exploratory Data Analysis (EDA) performed on four different datasets. The analyses are aimed at uncovering insights and patterns in the data, and each dataset represents a unique use case.
 
